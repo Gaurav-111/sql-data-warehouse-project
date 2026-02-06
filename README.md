@@ -17,4 +17,9 @@ Develop a modern data warehouse using postgreSql to consolidate sales data, enab
 ## License
 This project is licensed under the [MIT License] (LICENSE). You are free to use, modify, and share this project with proper attribution.
 ## About Me  
-Hi there! I'm **Gaurav Menaria**, I'm an computer science student, and passionated about **data engineering**
+Hi there! I'm **Gaurav Menaria**, I'm an computer science student, and passionated about **data engineering**  
+
+### <- data_flow_diagram ->
+![data_flow_diagram](data_flow_diagram_datawarehouse.drawio.png)
+
+
