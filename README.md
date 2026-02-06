@@ -20,6 +20,9 @@ This project is licensed under the [MIT License] (LICENSE). You are free to use,
 Hi there! I'm **Gaurav Menaria**, I'm an computer science student, and passionated about **data engineering**  
 
 ### <- data_flow_diagram ->
-![data_flow_diagram](data_flow_diagram_datawarehouse.drawio.png)
+![data_flow_diagram](images/data_flow_diagram_datawarehouse.drawio.png)
+
+### <- sales_data_mart (gold_layer) ->
+![data_mart](images/sales_data_mart.drawio.png)
 
 
